@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+.btn-sq-lg {
+    padding: 20px 0;
+    width: 150px !important;
+    height: 150px !important;
+}
+
+@media (max-width: 768px) { 
+    h1{
+        font-size: 1.8rem;
+        text-align: center !important;
+        margin: 0 20px;
+    }
+}
