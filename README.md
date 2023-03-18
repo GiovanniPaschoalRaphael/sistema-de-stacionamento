@@ -46,7 +46,8 @@ PARA O XAMPP antes de tudo abra o xampp e ligue deixe ele assim <br>
 4°tire os arquivos do winrar deste projeto dentro da pasta htdocs<br>
 pronto o sistema está no servidor local<br>
 
-PARA O WAMP Antes de tudo abra o wamp e ligue todos os serviços 1°Abra a pasta (c:)<br><br>
+PARA O WAMP Antes de tudo abra o wamp e ligue todos os serviços <br>
+1°Abra a pasta (c:)<br>
 2°Abra a pasta wamp64<br>
 3°Abra a pasta wwww <br> <br> 
 4°tire os arquivos do winrar deste projeto dentro da pasta wwww<br> 
@@ -76,7 +77,7 @@ Vamos colocar o Banco de dados no PhoMyAdmin 1°deixe o apache e o mysql ligados
   
   
   
-  ![image](https://user-images.githubusercontent.com/55327081/224854269-d13f42b0-3535-4f33-b193-d4b8d914d0ae.png)
+ ![image](https://user-images.githubusercontent.com/55327081/224854269-d13f42b0-3535-4f33-b193-d4b8d914d0ae.png)
 ![image](https://user-images.githubusercontent.com/55327081/224854311-3f12f7c2-064b-4578-a592-60b91ce972e3.png)
 ![image](https://user-images.githubusercontent.com/55327081/224854354-de1586d8-3b0e-470d-9018-291797fd4e50.png)
 ![image](https://user-images.githubusercontent.com/55327081/224854413-cf6538bf-5a2b-40e7-b248-3e6d6cfb656e.png)
