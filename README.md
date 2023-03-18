@@ -70,7 +70,7 @@ Vamos colocar o Banco de dados no PhoMyAdmin 1°deixe o apache e o mysql ligados
   5° Clicando em importar você vai selecionar o sql <br> 
   ![205533484-0ebb966a-eaa1-4f1d-baf7-84ea8b6bc711](https://user-images.githubusercontent.com/55327081/224855360-9f6431af-e769-4734-9d2e-cbf12bd64829.png)
 
-  Para fazer isso abra a pasta onde esta o seu projeto seja ele na pasta www ou htdocs abra a pasta banco de dados e selecione o barbershop.sql<br> 
+  Para fazer isso abra a pasta onde esta o seu projeto seja ele na pasta www ou htdocs abra a pasta banco de dados e selecione  banco de dados <br> 
 6° Por fim clique em Importar<br> 
    ![205533750-21e53685-be70-449a-b784-714b1280c9c8](https://user-images.githubusercontent.com/55327081/224855419-e127f108-8def-450f-ac4e-31e86210a235.png)<br>
 
